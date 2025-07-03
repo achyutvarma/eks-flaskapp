@@ -1,3 +1,6 @@
+<img width="958" alt="Screenshot 2025-07-03 171624" src="https://github.com/user-attachments/assets/b48ae0a7-2410-4e2a-b48f-b7318a48a532" />
+
+
 # 🚀 Simple Flask App Deployment on Amazon EKS
 
 This guide explains how to deploy a basic Flask web application on Amazon EKS.
@@ -83,7 +86,7 @@ Your Flask app should now be accessible via the public IP provided by the LoadBa
 
 
 
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/eb3f8892-c3e3-463c-b494-0a6193ef2573" />
+
 
 
 
