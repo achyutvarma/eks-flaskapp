@@ -76,6 +76,7 @@ http://<external-ip>
 ✅ Done!
 Your Flask app should now be accessible via the public IP provided by the LoadBalancer.
 
-![image](https://github.com/user-attachments/assets/43302f08-e385-4c0b-a999-8b99aac3b9ab)
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/5d68b6a5-0708-4e93-8cf2-e2c13fb60d63" />
+
 
 
